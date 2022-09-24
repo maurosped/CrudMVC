@@ -1,0 +1,1 @@
+web: java -Dserver.por=SPORT -jar target/CrudMVC-0.0.1-SNAPSHOT.jar
